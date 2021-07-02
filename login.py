@@ -22,3 +22,5 @@ for i in range(5):
         print("\nYour are close program now come back later\n")
         print(E)
         break
+
+print("hi")
